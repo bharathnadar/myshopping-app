@@ -1,7 +1,7 @@
 import React from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import styles from './coursel.module.css';
+import styles from '../Home/Coursel.module.css';
 import img1 from '../../assets/banner1.jpg';
 import img2 from '../../assets/banner2.jpg';
 import img3 from '../../assets/banner3.jpg';
