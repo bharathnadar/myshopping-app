@@ -1,0 +1,196 @@
+{
+  "mobiles": [
+    {
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "price": 999,
+      "image": "https://dummyimage.com/200x300/000/fff&text=iPhone+14",
+      "specifications": {
+        "storage": "128GB",
+        "color": "Midnight",
+        "camera": "12MP",
+        "battery": "3279mAh"
+      }
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22",
+      "price": 799,
+      "image": "https://dummyimage.com/200x300/0075ff/fff&text=Galaxy+S22",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Phantom Black",
+        "camera": "50MP",
+        "battery": "3700mAh"
+      }
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 7",
+      "price": 599,
+      "image": "https://dummyimage.com/200x300/ff6f00/fff&text=Pixel+7",
+      "specifications": {
+        "storage": "128GB",
+        "color": "Obsidian",
+        "camera": "50MP",
+        "battery": "4355mAh"
+      }
+    },
+    {
+      "brand": "OnePlus",
+      "model": "9 Pro",
+      "price": 969,
+      "image": "https://dummyimage.com/200x300/ff2a00/fff&text=OnePlus+9+Pro",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Morning Mist",
+        "camera": "48MP",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 11",
+      "price": 749,
+      "image": "https://dummyimage.com/200x300/ff8c00/fff&text=Mi+11",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Horizon Blue",
+        "camera": "108MP",
+        "battery": "4600mAh"
+      }
+    },
+    {
+      "brand": "Sony",
+      "model": "Xperia 1 III",
+      "price": 1299,
+      "image": "https://dummyimage.com/200x300/00bfff/fff&text=Xperia+1+III",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Frosted Black",
+        "camera": "12MP",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "brand": "Nokia",
+      "model": "G50",
+      "price": 299,
+      "image": "https://dummyimage.com/200x300/008000/fff&text=Nokia+G50",
+      "specifications": {
+        "storage": "64GB",
+        "color": "Midnight Sun",
+        "camera": "48MP",
+        "battery": "4470mAh"
+      }
+    },
+    {
+      "brand": "Oppo",
+      "model": "Find X3 Pro",
+      "price": 1149,
+      "image": "https://dummyimage.com/200x300/ff007f/fff&text=Find+X3+Pro",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Gloss Black",
+        "camera": "50MP",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "brand": "Huawei",
+      "model": "P50 Pro",
+      "price": 899,
+      "image": "https://dummyimage.com/200x300/8a2be2/fff&text=P50+Pro",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Cocoa Gold",
+        "camera": "50MP",
+        "battery": "4360mAh"
+      }
+    },
+    {
+      "brand": "Realme",
+      "model": "GT",
+      "price": 499,
+      "image": "https://dummyimage.com/200x300/ff4500/fff&text=Realme+GT",
+      "specifications": {
+        "storage": "128GB",
+        "color": "Dashing Silver",
+        "camera": "64MP",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "brand": "Vivo",
+      "model": "X70 Pro",
+      "price": 799,
+      "image": "https://dummyimage.com/200x300/ff1493/fff&text=X70+Pro",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Cosmic Black",
+        "camera": "50MP",
+        "battery": "4450mAh"
+      }
+    },
+    {
+      "brand": "Asus",
+      "model": "ROG Phone 5",
+      "price": 999,
+      "image": "https://dummyimage.com/200x300/32cd32/fff&text=ROG+Phone+5",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Phantom Black",
+        "camera": "64MP",
+        "battery": "6000mAh"
+      }
+    },
+    {
+      "brand": "Motorola",
+      "model": "Edge 20",
+      "price": 499,
+      "image": "https://dummyimage.com/200x300/ff0000/fff&text=Edge+20",
+      "specifications": {
+        "storage": "128GB",
+        "color": "Frosted Gray",
+        "camera": "108MP",
+        "battery": "4000mAh"
+      }
+    },
+    {
+      "brand": "TCL",
+      "model": "20 Pro 5G",
+      "price": 499,
+      "image": "https://dummyimage.com/200x300/8b4513/fff&text=20+Pro+5G",
+      "specifications": {
+        "storage": "256GB",
+        "color": "Mocha Brown",
+        "camera": "48MP",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Legion Phone Duel 2",
+      "price": 999,
+      "image": "https://dummyimage.com/200x300/00008b/fff&text=Legion+Phone+Duel+2",
+      "specifications": {
+        "storage": "512GB",
+        "color": "Ultimate Black",
+        "camera": "64MP",
+        "battery": "5500mAh"
+      }
+    },
+    {
+      "brand": "ZTE",
+      "model": "Axon 20",
+      "price": 399,
+      "image": "https://dummyimage.com/200x300/ff6347/fff&text=Axon+20",
+      "specifications": {
+        "storage": "128GB",
+        "color": "Black",
+        "camera": "64MP",
+        "battery": "4220mAh"
+      }
+    }
+  ]
+}

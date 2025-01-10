@@ -1,0 +1,44 @@
+.footer {
+    background-color:#162d52;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .column {
+    margin: 10px;
+    max-width: 300px;
+  }
+  
+  .column h4 {
+    margin-bottom: 10px;
+  }
+  
+  .column p, .column ul, .column li {
+    margin: 5px 0;
+  }
+  
+  .column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .column a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .column a:hover {
+    text-decoration: underline;
+  }
+  
+  .copyRight {
+    margin-top: 20px;
+  }
+  

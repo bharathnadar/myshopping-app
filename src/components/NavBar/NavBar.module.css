@@ -1,0 +1,126 @@
+.nav {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(192, 186, 186);
+    background-color: #ffffff;
+}
+
+.navContainer {
+    height: inherit;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.head {
+    /* border:2px solid red; */
+    height: inherit;
+    width: 20%;
+    display: flex;
+    align-items:center;
+    justify-content:space-around;
+}
+
+.head h1{
+    /* border:2px solid red; */
+    width:auto;
+    height: inherit;
+    margin-top: 20px;
+}
+
+.searchContainer {
+    height: 40px;
+    width: 20%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+  }
+  
+  .search {
+    width: 100%;
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 1px solid #162d52;
+    outline: none;
+    transition: border-color 0.3s ease;
+  }
+  
+  .search:focus {
+    border-color: #f27f3d;
+  }
+  
+  .search::placeholder {
+    color: #a8a8a8;
+  }  
+
+.NavItems {
+    height: inherit;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.NavItems ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    align-items: center; 
+}
+
+.NavItems ul li a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: #162d52;
+    font-size: 15px;
+}
+
+.NavItems ul li a:hover {
+    color: #f27f3d;
+}
+
+.NavItems li .loginButton {
+    background-color: #f27f3d;
+    height: 40px;
+    width: 140px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    padding: 8px;
+}
+
+.NavItems li .loginButton:hover {
+    background-color: #162d52;
+    color: #ffffff;
+}
+
+.navLink {
+    display: flex;
+    align-items: center; 
+    text-decoration: none;
+    font-weight: bolder;
+    color: #162d52;
+    font-size: medium;
+}
+
+.icon {
+    margin-left: 5px; 
+    font-size: 0.8em; 
+}
+
+.navLink:hover .icon {
+    color: #f27f3d; 
+}
+
+.navLink:hover {
+    color: #f27f3d;
+}
