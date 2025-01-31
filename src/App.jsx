@@ -18,7 +18,7 @@ const App = () => {
 const removeFromCart = (product) => {
     setCartItems(cartItems.filter((item) => item.model !== product.model));
   };
-
+  
   return (
     <div>
       <Router>

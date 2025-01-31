@@ -1,4 +1,4 @@
-import React from 'react';
+   import React from 'react';
 import ProductsData from './Products.json'; 
 import styles from './Products.module.css';
 
@@ -30,7 +30,7 @@ const Products = ({ searchTerm, addToCart }) => {
                   <p>Color: {product.specifications.color}</p>
                 </div>
                 <div className={styles.content2s2}>
-                  <button onClick={() => addToCart(product)}>Add to Cart</button>
+                  <button onClick={()=> addToCart(product)}>Add to Cart</button>
                 </div>
               </div>
             </div>
